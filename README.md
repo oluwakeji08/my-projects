@@ -1,1 +1,1 @@
-# static-website-on-aws
+# personal tutorial on aws
